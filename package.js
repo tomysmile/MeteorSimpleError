@@ -2,7 +2,7 @@ Package.describe({
   name: 'tomysmile:errors',
   summary: 'A pattern to display application errors to the user',
   version: '1.0.0',
-  git: 'http://github.com/tomysmile/meteor-errors.git'
+  git: 'https://github.com/tomysmile/MeteorSimpleError.git'
 });
 
 Package.onUse(function(api) {
